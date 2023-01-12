@@ -11,3 +11,4 @@ Proposte:
 - velocità automatica
 - ostacoli: buche, altre auto, rocce, coni, cantieri, alberi(?), tram, polizia, tamarri (che occupano le corsie).
 - Linguaggio C#
+- sfondo dinamico.
